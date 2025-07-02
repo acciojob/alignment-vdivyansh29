@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#table-1{
+    width: 100%;
+    margin-bottom: 3rem;
+}
+
+table, tr, td{
+    border: 1px solid black;
+    
+}
+
+tr td:nth-child(2){
+    text-align: center;
+}
+
+tr td:nth-child(3){
+    text-align: right;
+}
+
+#table-2{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+#table-2 td{
+    height: 1rem;
+}
+
+#table-3{
+    width: 100%;
+}
+
+#table-3 td{
+    height: 1rem;
+}
