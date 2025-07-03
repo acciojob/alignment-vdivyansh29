@@ -34,3 +34,9 @@ tr td:nth-child(3){
 #table-3 td{
     height: 1rem;
 }
+
+table.middle td {
+      border: 1px solid black;
+      padding: 1px;
+      spacing: 1px;
+}
